@@ -8,3 +8,4 @@
 - link:
     ~/.dotly: os/linux/.dotly
     ~/.config/starship.toml: os/linux/.config/starship.toml
+    ~/.config/nvim: editors/nvim
