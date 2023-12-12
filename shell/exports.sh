@@ -12,6 +12,7 @@ export CODELY_THEME_PWD_MODE="short" # full, short, home_relative
 export JAVA_HOME='/Library/Java/JavaVirtualMachines/amazon-corretto-15.jdk/Contents/Home'
 export GEM_HOME="$HOME/.gem"
 export GOPATH="$HOME/.go"
+export DENO_INSTALL="$HOME/.deno"
 
 # ------------------------------------------------------------------------------
 # Apps
@@ -34,6 +35,7 @@ path=(
 	"$JAVA_HOME/bin"
 	"$GEM_HOME/bin"
 	"$GOPATH/bin"
+	"$DENO_INSTALL/bin"
 	"$HOME/.cargo/bin"
 	"/usr/local/opt/ruby/bin"
 	"/usr/local/opt/python/libexec/bin"
