@@ -27,3 +27,4 @@ choco install vlc
 choco install transmission
 choco install zoom
 choco install discord
+choco install epicgameslauncher
