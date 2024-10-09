@@ -28,3 +28,6 @@ choco install transmission
 choco install zoom
 choco install discord
 choco install epicgameslauncher
+# extras
+choco install winrar
+choco install cpu-z
